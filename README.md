@@ -1,0 +1,4 @@
+- 👋 oi, eu sou a @17renata
+- 👀 Eu estou interessada em aprender novas linguas da programaçao
+- 🌱  Estou trabalhando nas linguagens de JavaScript e Scratch
+- 📫 Como entrar em contato comigo;renata.santiago.lima@escola.pr.gov.br
